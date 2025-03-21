@@ -31,6 +31,7 @@ public class DeclarationApp
         // Characters String
         String randomString = "Voici le résultat d’un calcul :\n1+5=6";
 
+        /// a
         // Display with return to line
         System.out.println(randomString);
     }
